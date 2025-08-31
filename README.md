@@ -14,6 +14,8 @@ I am a **PhD Candidate** in the EPSRC Nuclear Energy Futures CDT at Imperial Col
 
 Previously, I completed an MSc of Science by Research in Nuclear Physics at the University of York, under the supervision of Professor Marina Petri, where I was awarded the prestigious **IAEA Marie Skłodowska-Curie Fellowship (2020/2021)** and investigated nuclear structure and mass formulas to advance the understanding of fundamental interactions.
 
+During my BSc in Physics, I completed my undergraduate thesis within the CERN n_TOF Collaboration under the supervision of Professor Nikolas Patronis and Professor K.G. Ioannides, gaining early research experience in experimental nuclear physics.
+
 ---
 
 ## 🔑 Skills & Expertise
