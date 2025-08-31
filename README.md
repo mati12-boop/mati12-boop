@@ -4,7 +4,7 @@
   <img src="assets/profile.jpg" alt="Stamatina at Clay Conference 2024, Hannover" width="300"/>
 </p>
 
-✨ *Nuclear physicist & engineer | BSc in Physics (specialising in Nuclear Physics) | MSc(R) in Nuclear Physics (UoY, UK) | PhD Candidate, Nuclear Energy Futures CDT, Imperial College London, UK | Advancing computational modelling, Python/C++, Monte Carlo simulations (GEANT4, FLUKA), radiation detection and AI/ML for safe and sustainable nuclear technologies.*
+✨ *Nuclear physicist & engineer | MSc(R) in Nuclear Physics (UoY, UK) | PhD Candidate, Nuclear Energy Futures CDT, Imperial College London, UK | Advancing computational modelling, Python/C++, Monte Carlo simulations (GEANT4, FLUKA), radiation detection and AI/ML for safe and sustainable nuclear technologies.*
 
 ---
 
