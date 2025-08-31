@@ -4,7 +4,7 @@
   <img src="assets/profile.jpg" alt="Stamatina at Clay Conference 2024, Hannover" width="300"/>
 </p>
 
-✨ *Nuclear physicist & engineer | Advancing computational modelling, Python/C++ simulations and AI/ML for safe and sustainable nuclear technologies.*
+✨ *Nuclear physicist & engineer | Advancing computational modelling, Python/C++, Monte Carlo simulations (GEANT4, FLUKA), radiation detection and AI/ML for safe and sustainable nuclear technologies.*
 
 ---
 
