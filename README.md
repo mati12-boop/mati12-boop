@@ -64,6 +64,6 @@ Find my publications on:
 
 ---
 
-> *Advancing computational modelling, Python/C++ simulations and AI/ML for safe and sustainable nuclear technologies.*
+>
 
 
