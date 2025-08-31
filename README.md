@@ -61,7 +61,7 @@ Find my publications on:
 - Fan of bridging physics and engineering - from nuclear structure to real-world nuclear engineering applications  
 - Excited about applying AI/ML to nuclear problems  
 - Enjoy solving complex problems in maths and physics, always ready to contribute to new nuclear challenges and push myself scientifically  
-
+🚀Additional Fun fact: Dreaming of becoming an astronaut one day!
 ---
 
 >
