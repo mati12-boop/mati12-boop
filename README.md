@@ -58,7 +58,7 @@ Find my publications on:
 
 - Love exploring how maths and coding describe complex natural systems  
 - Passionate about science communication & inspiring more women in STEM  
-- Fan of bridging physics and engineering — from nuclear structure to real-world nuclear engineering applications  
+- Fan of bridging physics and engineering - from nuclear structure to real-world nuclear engineering applications  
 - Excited about applying AI/ML to nuclear problems  
 - Enjoy solving complex problems in maths and physics, always ready to contribute to new nuclear challenges and push myself scientifically  
 
